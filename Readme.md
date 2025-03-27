@@ -7,6 +7,15 @@
 3. Not open-source; requires payment to access the API key.
 4. Payment and billing details available https://aistudio.google.com/app/apikey.
 
+
+### Open your favorite text editor (like VS Code, Sublime Text, or even nano/vim on the command line).
+
+### Create a new file and paste in the following contents:
+```
+OPENAI_API_KEY=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
+GOOGLE_API_KEY=AIzaSyDyEhhzHAJFjg-W8PAX5iGH_LJ-0ppCp_I
+```
+
 ### Using Gemini API Key:
 1. Free and open-source.
 2. Less effective for setting up end-to-end conversational QnA with context due to limited ecosystem integration compared to OpenAI.
